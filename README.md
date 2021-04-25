@@ -1,12 +1,12 @@
 # nooks
 
-- [ ] useTitle : react document의 title을 몇개의 hooks로 바꿈
-- [ ] useInput : input
-- [ ] usePageLeave : user가 page를 벗어나는 시점 발견, 함수 실행
-- [ ] useClick : element를 클릭하는 시점 발견
+- [x] useTitle : react document의 title을 몇개의 hooks로 바꿈
+- [x] useInput : input
+- [x] usePageLeave : user가 page를 벗어나는 시점 발견, 함수 실행
+- [x] useClick : element를 클릭하는 시점 발견
 - [ ] useFadeIn : 애니메이션을 서서히 사라지게 함
 - [ ] useFullscreen : 풀스크린으로 만들거나 / 일밚 화면으로 돌아가게 함
-- [ ] useHover : 마우스 올렸을 때 감지
+- [x] useHover : 마우스 올렸을 때 감지
 - [ ] useNetwork : user가 online / offline 감지
 - [ ] useNotification : notification API를 사용해 유저에게 알림전송
 - [ ] useScroll : 스크롤 감지
